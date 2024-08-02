@@ -1,0 +1,15 @@
+C:\Users\samur\source\repos\HuynhLeHoangPhuc_bt5\HuynhLeHoangPhuc_bt5\obj\Debug\HuynhLeHoangPhuc_bt5.csproj.AssemblyReference.cache
+C:\Users\samur\source\repos\HuynhLeHoangPhuc_bt5\HuynhLeHoangPhuc_bt5\obj\Debug\HuynhLeHoangPhuc_bt5.Form1.resources
+C:\Users\samur\source\repos\HuynhLeHoangPhuc_bt5\HuynhLeHoangPhuc_bt5\obj\Debug\HuynhLeHoangPhuc_bt5.Properties.Resources.resources
+C:\Users\samur\source\repos\HuynhLeHoangPhuc_bt5\HuynhLeHoangPhuc_bt5\obj\Debug\HuynhLeHoangPhuc_bt5.csproj.GenerateResource.cache
+C:\Users\samur\source\repos\HuynhLeHoangPhuc_bt5\HuynhLeHoangPhuc_bt5\obj\Debug\HuynhLeHoangPhuc_bt5.csproj.CoreCompileInputs.cache
+C:\Users\samur\source\repos\HuynhLeHoangPhuc_bt5\HuynhLeHoangPhuc_bt5\bin\Debug\HuynhLeHoangPhuc_bt5.exe.config
+C:\Users\samur\source\repos\HuynhLeHoangPhuc_bt5\HuynhLeHoangPhuc_bt5\bin\Debug\HuynhLeHoangPhuc_bt5.exe
+C:\Users\samur\source\repos\HuynhLeHoangPhuc_bt5\HuynhLeHoangPhuc_bt5\bin\Debug\HuynhLeHoangPhuc_bt5.pdb
+C:\Users\samur\source\repos\HuynhLeHoangPhuc_bt5\HuynhLeHoangPhuc_bt5\bin\Debug\EntityFramework.dll
+C:\Users\samur\source\repos\HuynhLeHoangPhuc_bt5\HuynhLeHoangPhuc_bt5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\samur\source\repos\HuynhLeHoangPhuc_bt5\HuynhLeHoangPhuc_bt5\bin\Debug\EntityFramework.xml
+C:\Users\samur\source\repos\HuynhLeHoangPhuc_bt5\HuynhLeHoangPhuc_bt5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\samur\source\repos\HuynhLeHoangPhuc_bt5\HuynhLeHoangPhuc_bt5\obj\Debug\HuynhLeH.B069D33D.Up2Date
+C:\Users\samur\source\repos\HuynhLeHoangPhuc_bt5\HuynhLeHoangPhuc_bt5\obj\Debug\HuynhLeHoangPhuc_bt5.exe
+C:\Users\samur\source\repos\HuynhLeHoangPhuc_bt5\HuynhLeHoangPhuc_bt5\obj\Debug\HuynhLeHoangPhuc_bt5.pdb
